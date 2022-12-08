@@ -13,6 +13,7 @@ The Summary Statistics results for December show that the low (minimum) temperat
 
 ## Summary:
 As it can be seen on the graphs below, the majority of temperature reading for the month of June were above 75 degrees.
+<source media="(prefers-color-scheme: dark)" srcset="![Uploading image.png…]()">
 
 On the other hand, in the month  Decemeber most of the data points/temperature reading  concentrated in between 75 and 65 degrees. 
 
