@@ -12,11 +12,11 @@ The Summary Statistics results for December show that the low (minimum) temperat
 ![image](https://user-images.githubusercontent.com/114262970/205809630-d19a67ff-c3d8-4d06-b528-fd732f77262d.png)    ![image](https://user-images.githubusercontent.com/114262970/205809677-a64ccf39-5975-43de-a5c3-5f1f61a67876.png)
 
 ## Summary:
-As it can be seen on the graphs below, the majority of temperature reading for the month of June were above 75 degrees. The temprature readings are normally distributed around the mean.
+As it can be seen on the graphs below, the majority of temperature reading for the month of June were above 75 degrees. The temprature readings are normally distributed around the mean. It is also observed that on average, there is less rain and higher temperatures during the month of June. 
 
 ![june_hist](https://user-images.githubusercontent.com/114262970/206592008-bc6be013-1b33-4d03-96c8-2ccfefd056f3.png)
 
-On the other hand, in the month  Decemeber(graph shown below) most of the data points/temperature reading concentrated in between 75 and 65 degrees.
+On the other hand, in the month  Decemeber(graph shown below) most of the data points/temperature reading distributed in between 75 and 65 degrees. The average amount of precipitation also rise from about 0.14 inches in June to 0.22 in December.
 
 ![dec_hist](https://user-images.githubusercontent.com/114262970/206591977-88191017-11d6-4b7b-afa0-b5d53c487a07.png)
 
